@@ -22,21 +22,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    
-    
-    </dependencies>
-  	<distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>Nexus Repository</name>
-	      <url>http://10.191.87.55:8081/repository/maven-releases/</url>
-	    </repository>
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://10.191.87.55:8081/repository/maven-snapshots/</url>
-	    </snapshotRepository>
-	</distributionManagement>
+   
   
   
    
